@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">DUY NGUYEN</title><desc id="desc">Evidence-first AI systems. Resilient tools. Verifiable results.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070707"/><stop offset=".58" stop-color="#110f32"/><stop offset="1" stop-color="#26226e"/></linearGradient><linearGradient id="a" x1="0" y1="1" x2="1"><stop stop-color="#4F46E5"/><stop offset="1" stop-color="#6b5eff"/></linearGradient></defs>
+  <rect width="1440" height="480" rx="36" fill="url(#bg)"/>
+  <g opacity=".24" stroke="#4F46E5"><path d="M0 80h1440M0 160h1440M0 240h1440M0 320h1440M0 400h1440"/><path d="M120 0v480M240 0v480M360 0v480M480 0v480M600 0v480M720 0v480M840 0v480M960 0v480M1080 0v480M1200 0v480M1320 0v480"/></g>
+  <circle cx="1200" cy="240" r="150" fill="none" stroke="#4F46E5" stroke-opacity=".45" stroke-width="2"/><circle cx="1200" cy="240" r="104" fill="#110f32" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M1135 285l65-130 65 130-65-32z" fill="none" stroke="url(#a)" stroke-width="16" stroke-linejoin="round"/><circle cx="1200" cy="240" r="18" fill="#6b5eff"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="104" y="158" fill="#6b5eff" font-size="24" font-weight="700" letter-spacing="5">AI ENGINEER · AGENTIC SYSTEMS · RUST TOOLING</text><text x="100" y="252" fill="#fff" font-size="72" font-weight="800">DUY NGUYEN</text><text x="104" y="318" fill="#f3f4f6" font-size="28">Evidence-first AI systems. Resilient tools. Verifiable results.</text><path d="M104 362h640" stroke="url(#a)" stroke-width="5" stroke-linecap="round"/></g>
+</svg>
