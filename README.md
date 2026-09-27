@@ -22,6 +22,11 @@ I build AI products where retrieval, tool calls, state transitions, and human de
 - 🦀 Shipping native **Rust** tools for search, speech-to-text, video workflows, and NTFS disk inspection.
 - 🎓 Learning and building through the **VinUni Applied AI Program 2026 — Cohort 4** in Hanoi, Vietnam.
 
+## Highlights
+
+- 🥉 **R2AI Stage 2 — Third Prize (Top 3)** with team **KINGPRO** — [official result repository](https://github.com/aigurutinix/r2ai-stage-2/blob/2bbc3a43cb29bfaf8aa53da15be5699b4af1b8d2/README.md#2-k%E1%BA%BFt-qu%E1%BA%A3-cu%E1%BB%99c-thi--danh-s%C3%A1ch-c%C3%A1c-%C4%91%E1%BB%99i)
+- 🏆 **Vietnam AI Innovation Challenge 2026 — Top 5 overall + FPT Award** with **PolicyRadar** — [USTH coverage](https://usth.edu.vn/32449-32449/)
+
 ## Selected work
 
 ### [PolicyRadar](https://github.com/Clownnvd/vaic-2026)
